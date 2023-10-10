@@ -1,0 +1,6 @@
+utils/secret_values.py
+__pycache__
+*.out
+*.err
+events.out.tfevents.*
+/deerbehaviourdetector/data/cache
